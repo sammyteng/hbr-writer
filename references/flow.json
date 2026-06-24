@@ -1,0 +1,41 @@
+{
+  "skill": "hbr-writer",
+  "title": "HBR管理洞察文章写作流程",
+  "nodes": [
+    {
+      "title": "确认议题",
+      "subtitle": "管理议题/读者层级/核心洞察/字数",
+      "type": "io"
+    },
+    {
+      "title": "套HBR模板",
+      "subtitle": "复用账号画像与标题/结构公式",
+      "type": "reuse"
+    },
+    {
+      "title": "设计框架",
+      "subtitle": "命名一个可带走的管理框架",
+      "type": "code"
+    },
+    {
+      "title": "采集案例",
+      "subtitle": "从HBR库与名企访谈取决策案例",
+      "type": "reuse"
+    },
+    {
+      "title": "写正文",
+      "subtitle": "按骨架写洞察/框架/案例/建议",
+      "type": "code"
+    },
+    {
+      "title": "自检清单",
+      "subtitle": "6条门槛逐项核对不过则改",
+      "type": "gate"
+    },
+    {
+      "title": "交付文章",
+      "subtitle": "产出可发布的HBR风格成稿",
+      "type": "io"
+    }
+  ]
+}
